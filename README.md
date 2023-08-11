@@ -1,0 +1,2 @@
+# MauticMA
+Marketing automation
